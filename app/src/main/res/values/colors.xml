@@ -1,0 +1,7 @@
+<resources>
+  <color name="sa_green">#1E9618</color>
+  <color name="sa_accent">#4EE147</color>
+  <color name="sa_accent_transparent">#D8F3D8</color>
+  <color name="sa_green_dark">#156912</color>
+  <color name="error_text_colour">#806060FF</color>
+</resources>

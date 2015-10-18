@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="AppTheme" parent="BaseAppTheme" />
+
+  <style name="BaseAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/sa_green</item>
+    <item name="colorAccent">@color/sa_accent</item>
+  </style>
+
+  <style name="ErrorText" parent="TextAppearance.AppCompat.Small">
+    <item name="android:textStyle">bold|italic</item>
+    <item name="android:textColor">@color/error_text_colour</item>
+  </style>
+
+</resources>

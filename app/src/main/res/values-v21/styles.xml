@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <style name="BaseAppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <item name="colorPrimary">@color/sa_green</item>
+    <item name="colorAccent">@color/sa_accent</item>
+    <item name="android:statusBarColor">@color/sa_green_dark</item>
+    <item name="android:navigationBarColor">@color/sa_green_dark</item>
+  </style>
+
+</resources>

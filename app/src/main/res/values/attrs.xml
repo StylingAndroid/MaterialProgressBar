@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="MaterialProgressBar">
+    <attr name="progressColour" format="color" />
+    <attr name="secondaryProgressColour" format="color" />
+    <attr name="backgroundColour" format="color" />
+    <attr name="duration" format="integer" />
+  </declare-styleable>
+</resources>
